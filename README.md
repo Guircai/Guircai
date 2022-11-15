@@ -1,4 +1,4 @@
-### Welcome 👋 :panda_face
+### Welcome 👋
 
 ![](https://img.shields.io/badge/release-v1.0.0-yllow)
 ![](https://img.shields.io/badge/cool-yes-magenta)
