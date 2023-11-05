@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/cool-yes-magenta)
 
 - 🔭 I’m currently working as a 🛠 Network DevOps engineer @data-center Shenzhen.
-- 📚 I like creating tech training videos online ([blog](https://www.guircai.com))
+- 📚 I like creating tech training videos online ([blog](https://www.duyu.cool))
 - 💬 How to reach me: [Bilibili](https://space.bilibili.com/276622261)
 
 
